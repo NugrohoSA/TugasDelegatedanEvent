@@ -1,0 +1,11 @@
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\bin\Debug\Calculator3647.exe.config
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\bin\Debug\Calculator3647.exe
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\bin\Debug\Calculator3647.pdb
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\obj\Debug\Calculator3647.csproj.AssemblyReference.cache
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\obj\Debug\Calculator3647.FrmCalculator.resources
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\obj\Debug\Calculator3647.FrmEntryCalculator.resources
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\obj\Debug\Calculator3647.Properties.Resources.resources
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\obj\Debug\Calculator3647.csproj.GenerateResource.cache
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\obj\Debug\Calculator3647.csproj.CoreCompileInputs.cache
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\obj\Debug\Calculator3647.exe
+D:\NUGROHO\PEMROGRAMAN LANJUT\MINGGU 8\TUGAS\Calculator3647\obj\Debug\Calculator3647.pdb
